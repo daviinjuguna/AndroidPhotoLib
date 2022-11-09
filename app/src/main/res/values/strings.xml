@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhotoLib</string>
+    <string name="desc">Description</string>
+    <string name="title">Title</string>
+    <string name="fab">FAB</string>
+    <string name="add_title">Add title</string>
+</resources>
